@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 
 public class CameraController : MonoBehaviour
 {
-    [SerializeField] private float cameraSensitivity = 0.1f;
+    [SerializeField] private float cameraSensitivity = 0.5f;
     
     public void ControlCamera(InputAction.CallbackContext ctx)
     {

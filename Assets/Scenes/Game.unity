@@ -632,7 +632,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3cd564c97dbf3d499bc14904e928075, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraSensitivity: 0.1
+  cameraSensitivity: 0.5
 --- !u!1001 &1740807072
 PrefabInstance:
   m_ObjectHideFlags: 0
